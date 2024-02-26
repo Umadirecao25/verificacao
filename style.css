@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+h2{
+    text-align: center;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: bisque;
+}
+
+h1{
+    color: bisque;
+    text-align: center;
+    font-size: 50px;
+}
+
+body{
+    background-image: url(https://proxy.organicadigital.com/img-b9390706de258e50.jpeg?thumb=701x);
+    background-size:86em;
+    background-repeat: no-repeat;
+}
+
+p{
+    font-size: 20px;
+    color: bisque;
+}
+
+.formulario{
+    text-align: center;
+}
